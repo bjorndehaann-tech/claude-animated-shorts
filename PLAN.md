@@ -1,7 +1,7 @@
 # PLAN.md: "The Pig on Trial" (Savigny, 1457)
 
 Format: 9:16 vertical, 1080p, 30fps
-Duration: 37.8 s narration, 1134 frames (round(37.8 × 30))
+Duration: 37.8 s narration, 1135 frames (0-1134 inclusive)
 
 PROVISIONAL: frame ranges are estimated from narration word counts (111 words, about 10.2 frames per word). Re-align every boundary to work/phrases.json once timing.py has run. The engine repo is not available yet, so these are not verified against the audio.
 
